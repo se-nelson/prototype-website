@@ -1,4 +1,4 @@
 Prototype Website
 =================
 
-Built by Sam & Marrick
+The Best Prototype Website Ever 
